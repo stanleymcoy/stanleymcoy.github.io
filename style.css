@@ -61,8 +61,7 @@ a {
   margin: 0 auto;
 }
 #bio-image{
-  background-image;: url("./image.jpg")
-
+  background-image: url("./image.jpg")
 }
 #main-bio,
 #contact-info,
