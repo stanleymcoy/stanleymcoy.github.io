@@ -60,7 +60,10 @@ a {
   /* Positioning */
   margin: 0 auto;
 }
+#bio-image{
+  your-image: url("./image.jpg")
 
+}
 #main-bio,
 #contact-info,
 #bio-image {
